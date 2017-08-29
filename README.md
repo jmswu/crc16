@@ -13,3 +13,5 @@ the initial value of CRC16, the header comes with a recommanded predefine initia
 @return
 the calculated crc16 value
 
+check your result at:
+http://www.sunshine2k.de/coding/javascript/crc/crc_js.html
