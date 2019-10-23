@@ -1,4 +1,4 @@
-# calculate crc16 value
+# calculate crc16 value (CCITT)
 
 Test code in main.c
 
